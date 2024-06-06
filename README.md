@@ -10,6 +10,8 @@
 
 #### YOUTUBE : 
 When i have free time, i make educational youtube videos. They topics revolve around Arduino, Raspberry Pi and Artifical Intelligence.
+
+Link to my Youtube Channel : https://www.youtube.com/channel/UCQPRd2V7Uye07T890sqSEeg
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQPRd2V7Uye07T890sqSEeg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQPRd2V7Uye07T890sqSEeg)
 
